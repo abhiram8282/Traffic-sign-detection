@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'go left'
+}
+
+item {
+  id: 2
+  name: 'pedestrian crossing'
+}
+
+item {
+  id: 3
+  name: 'highway go straight'
+}

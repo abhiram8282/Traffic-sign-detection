@@ -1,0 +1,26 @@
+<annotation>
+	<folder>DATASETIMG</folder>
+	<filename>IMG-20200115-WA0139.jpg</filename>
+	<path>I:\DATASETIMG\IMG-20200115-WA0139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>1032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>highway go straight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>317</ymin>
+			<xmax>504</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

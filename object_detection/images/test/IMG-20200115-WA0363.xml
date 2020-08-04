@@ -1,0 +1,26 @@
+<annotation>
+	<folder>abhiram2</folder>
+	<filename>IMG-20200115-WA0363.jpg</filename>
+	<path>I:\abhiram2\IMG-20200115-WA0363.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>581</width>
+		<height>1032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>207</ymin>
+			<xmax>525</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>
